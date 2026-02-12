@@ -13,11 +13,9 @@
 
 - 📫 How to reach me **kduaa03@gmail.com**
 
-- ⚡ Fun fact **I am pretty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nonomoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nonomoke" height="30" width="40" /></a>
 <a href="https://instagram.com/duaakhann__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duaakhann__" height="30" width="40" /></a>
 </p>
 
